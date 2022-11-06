@@ -24,7 +24,7 @@ public class Main {
         }
         System.out.println("Females: " + females);
 
-        // Declarative Approach ***
+        // Declarative Approach ****
 
     }
 
