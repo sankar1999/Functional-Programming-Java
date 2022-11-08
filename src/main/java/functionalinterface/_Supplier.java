@@ -3,6 +3,8 @@ package functionalinterface;
 import java.util.List;
 import java.util.function.Supplier;
 
+// Clean Code
+
 public class _Supplier {
 
     public static void main(String[] args) {
